@@ -510,8 +510,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpForce: 10
   gravityModifier: 4
-  isOnGround: 0
-  gameOver: 0
+  isOnGround: 1
+  gameOver: 1
 --- !u!1 &835818919
 GameObject:
   m_ObjectHideFlags: 0
