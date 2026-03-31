@@ -1,10 +1,10 @@
+
 using UnityEngine;
 
 public class MoveLeft : MonoBehaviour
 {
-    private float speed = 30.0f;
+    private float speed = 30;
     private PlayerController playerControllerScript;
-   private PlayerController playerController;
     private float leftBound = -15;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
